@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Luis A. Cisneros G.
+### Hi there 👋 I'm Luis A. Cisneros G, a equadorian developer who loves Javascript, Typescript and ReactJS.
 
 <!--
 **TikoCisneros/TikoCisneros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫About Me :
-🔭 I’m currently working as Front End Developer in Technisys.<br/>
+🔭 I’m currently working as a Front End Developer in Technisys.<br/>
 🌱 I’m currently learning ReactJS ecosystem libraries and NextJS.<br/>
 👯 I’m looking to collaborate on ReactJS or React Native projects.<br/>
 💬 Ask me about web and mobile development.<br/>
