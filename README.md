@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Luis A. Cisneros G, a equadorian developer who loves Javascript, Typescript and ReactJS.
+### Hi there 👋 I'm Luis A. Cisneros G., an Ecuadorian developer who loves Javascript, Typescript and ReactJS. In my free time I usually ride my bike, listen to techno music, visit new places and watch series or movies.
 
 <!--
 **TikoCisneros/TikoCisneros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
